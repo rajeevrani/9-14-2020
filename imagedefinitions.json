@@ -1,6 +1,6 @@
 [
   {
     "name": "nodeapp",
-    "imageUri": "261891914465.dkr.ecr.us-east-1.amazonaws.com/nodeapp:Latest"
+    "imageUri": "011900577749.dkr.ecr.us-east-1.amazonaws.com/banglore1:latest"
   }
 ]
