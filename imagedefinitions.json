@@ -1,6 +1,6 @@
 [
   {
-    "name": "nodeapp",
+    "name": "demo-container",
     "imageUri": "011900577749.dkr.ecr.us-east-1.amazonaws.com/banglore1:latest"
   }
 ]
